@@ -15,7 +15,6 @@ export const translations = {
       housing: 'Проживание',
       medical: 'Медицина',
       migration: 'Миграция',
-      deanery: 'Деканат',
       leisure: 'Досуг',
       contacts: 'Контакты'
     }
@@ -36,7 +35,6 @@ export const translations = {
       housing: 'Housing',
       medical: 'Medical',
       migration: 'Migration',
-      deanery: 'Dean\'s Office',
       leisure: 'Leisure',
       contacts: 'Contacts'
     }

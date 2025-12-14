@@ -66,23 +66,6 @@ export const getSectionsData = (lang: 'ru' | 'en') => {
         }
       },
       {
-        id: 'deanery',
-        title: 'Деканат',
-        icon: 'School',
-        color: 'bg-purple-600',
-        emoji: '🎓',
-        content: {
-          title: 'Деканат и учебная часть',
-          description: 'Контакты деканата и учебные вопросы',
-          items: [
-            { label: 'Деканат', text: 'Главный корпус, 2 этаж, кабинеты 201-205' },
-            { label: 'Режим работы', text: 'Понедельник-Пятница: 9:00-17:00 (обед 13:00-14:00)' },
-            { label: 'Учебная часть', text: 'Расписание, справки, академические вопросы' },
-            { label: 'Email', text: 'deanery@urfu.ru, тел: +7 (343) 375-44-44' }
-          ]
-        }
-      },
-      {
         id: 'leisure',
         title: 'Досуг',
         icon: 'Gamepad2',
@@ -187,23 +170,6 @@ export const getSectionsData = (lang: 'ru' | 'en') => {
             { label: 'District UFMS Addresses', text: 'Kirovsky: Uralskaya St., 70a | Leninsky: Frunze St., 20 | Verkh-Isetsky: Krylova St., 1a | Zheleznodorozhny: Grazhdanskaya St., 4 | Oktyabrsky: Vostochnaya St., 160 | Ordzhonikidze: Baumana St., 11 | Chkalovsky: Soyuznaya St., 25' },
             { label: 'Special Case: RVP', text: 'If you have temporary residence permit (RVP) and want to move to another region of Russia (outside Sverdlovsk Oblast), submit an application for change of residence.' },
             { label: '📱 More Information', text: 'Join the VK group of UrFU International Student Adaptation Center for current information, document lists and articles: vk.com/adaptationurfu' }
-          ]
-        }
-      },
-      {
-        id: 'deanery',
-        title: 'Dean\'s Office',
-        icon: 'School',
-        color: 'bg-purple-600',
-        emoji: '🎓',
-        content: {
-          title: 'Dean\'s Office and Academic Department',
-          description: 'Dean\'s office contacts and academic questions',
-          items: [
-            { label: 'Dean\'s Office', text: 'Main building, 2nd floor, rooms 201-205' },
-            { label: 'Working Hours', text: 'Monday-Friday: 9:00-17:00 (lunch 13:00-14:00)' },
-            { label: 'Academic Department', text: 'Schedule, certificates, academic questions' },
-            { label: 'Email', text: 'deanery@urfu.ru, tel: +7 (343) 375-44-44' }
           ]
         }
       },
