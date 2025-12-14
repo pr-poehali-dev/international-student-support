@@ -340,7 +340,7 @@ const Index = () => {
 
       <footer className="py-8 text-center text-muted-foreground">
         <p className="text-sm">
-          Сделано с ❤️ для студентов УрФУ | 2024
+          Сделано с ❤️ для студентов УрФУ | 2026
         </p>
       </footer>
     </div>
